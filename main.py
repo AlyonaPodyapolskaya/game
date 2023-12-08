@@ -62,13 +62,10 @@ def getPlayerPosition():
 
 def moveLeft():
     movePlayer(0, -1)
-
 def moveRight():
     movePlayer(0, 1)
-
 def moveDown():
     movePlayer(1, 0)
-
 def moveUp():
     movePlayer(-1, 0)
 
